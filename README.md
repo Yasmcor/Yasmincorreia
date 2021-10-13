@@ -19,7 +19,7 @@
     <img align="center" alt="yasmin-html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     
    <a href="https://picasion.com/">
-  <img  align="right" src="https://i.picasion.com/pic91/02c9318e35c83079613a1660093c84c7.gif" width="100" height="150" border="0" alt="https://picasion.com/" /></a><br />
+  <img  align="right" src="https://i.picasion.com/pic91/02c9318e35c83079613a1660093c84c7.gif" width="100" height="100" border="0" alt="https://picasion.com/" /></a><br />
   </div> 
   
   
