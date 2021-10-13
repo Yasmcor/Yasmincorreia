@@ -32,4 +32,4 @@
   
    
    <a href="https://picasion.com/">
-  <img  align="right" src="https://i.picasion.com/pic91/02c9318e35c83079613a1660093c84c7.gif" width="150" height="100" border="0" alt="https://picasion.com/" /></a><br />
+  <img  align="right" src="https://i.picasion.com/pic91/02c9318e35c83079613a1660093c84c7.gif" width="100" height="150" border="0" alt="https://picasion.com/" /></a><br />
